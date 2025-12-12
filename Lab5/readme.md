@@ -1,0 +1,1 @@
+Utilizarea șirurilor de caractere
